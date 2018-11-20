@@ -1,0 +1,41 @@
+// The colour palette for Vuestratum.
+
+// Backgrounds
+$body-bg: hsl(0, 0%, 92%);
+$code-bg: hsl(0, 0%, 32%);
+$text-input-bg: hsl(0, 0%, 95%);
+$submit-input-bg: hsl(0, 0%, 96%);
+$top-bg: hsl(167, 52%, 54%);
+
+// Gradients
+$gradient: linear-gradient(
+  45deg,
+  hsl(167, 96%, 47%) 0%,
+  hsl(167, 53%, 47%) 100%
+);
+$red-gradient: linear-gradient(
+  45deg,
+  hsl(4, 66%, 52%) 0%,
+  hsl(4, 95%, 46%) 100%
+);
+$modal-gradient: linear-gradient(
+  180deg,
+  hsl(0, 0%, 90%) 0%,
+  hsl(0, 0%, 80%) 100%
+);
+
+// Shadows
+$shadow: hsl(167, 66%, 32%);
+
+// Text
+$masthead-text: hsl(0, 0%, 13%);
+$subheading-text: hsl(0, 0%, 20%);
+$article-heading-text: hsl(0, 0%, 25%);
+$body-text: hsl(0, 0%, 40%);
+$strong-text: hsl(0, 0%, 30%);
+$light-text:  hsl(0, 0%, 75%);
+$lighter-text: hsl(0, 0%, 95%);
+$code-text: hsl(0, 0%, 80%);
+
+// Accents
+$accent: hsl(167, 96%, 47%);

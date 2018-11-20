@@ -1,21 +1,7 @@
-# nsfwaltayy
+# vuestratum
 
-## Project setup
-```
-yarn install
-```
+A thorough, component-packed boilerplate for Vue.js.
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+## Credits
 
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Lints and fixes files
-```
-yarn run lint
-```
+- Emojis by Twemoji - https://twemoji.twitter.com/
